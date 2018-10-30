@@ -1,0 +1,7 @@
+AVL -> BST, whose the difference between left subtree height and right subtree height is at most 1. Log(n) - Self Balancing Tree
+Red Balck Tree -->
+Splay Tree -->recently accessed nodes in the top of the tree
+B-Tree --> sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time. used to idex database entries
+Agumented Tree -->
+Scapegoat Tree -->
+Interval Tree -->  maintain set of intervals so that all operations can be done in O(Logn) time.
