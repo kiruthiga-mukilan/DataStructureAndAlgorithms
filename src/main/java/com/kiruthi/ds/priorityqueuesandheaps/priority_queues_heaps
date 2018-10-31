@@ -1,0 +1,3 @@
+Priority Queue --> minimum/maximum element among a collection of elements - Job Scheduling
+Heap --> Heap is that the value of a node must be > (or <) than the values of its children
+         property that all leaves should be at h or h – 1 levels
