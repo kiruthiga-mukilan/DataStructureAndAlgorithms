@@ -1,3 +1,21 @@
 Priority Queue --> minimum/maximum element among a collection of elements - Job Scheduling
 Heap --> Heap is that the value of a node must be > (or <) than the values of its children
          property that all leaves should be at h or h – 1 levels
+
+         Arr[(i-1)/2]	Returns the parent node
+         Arr[(2*i)+1]	Returns the left child node
+         Arr[(2*i)+2]	Returns the right child node
+
+Applications:
+1. HeapSort
+2. Priority queues can be efficiently implemented using Binary Heap - Binomoial Heap and Fibonacci Heap
+3. Dijkstra’s Shortest Path and Prim’s Minimum Spanning Tree
+4. a) K’th Largest Element in an array.
+   b) Sort an almost sorted array/
+   c) Merge K Sorted Arrays.
+
+Min-Heap/Max-Heap --> preorder traversal produces ascending/decending order
+
+
+
+
