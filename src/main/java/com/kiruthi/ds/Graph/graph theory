@@ -1,0 +1,19 @@
+Viz Applications:
+1. Electronic Circuits
+2. Transportation N/W
+3. Computer N/Ws
+
+When we know that our search element can be found in at the top of the graph will go for BFS
+Or Element can be found at the botom of the graph will go for DFS
+
+BFS -Queue
+
+DAG - Topological sorting - Pipeline of computing jobs
+
+bellman-ford-algorithm - Negative WightedGraph shortest path
+
+
+
+
+
+
