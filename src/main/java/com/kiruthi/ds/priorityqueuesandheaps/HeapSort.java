@@ -67,3 +67,9 @@ public class HeapSort {
         printArray(arr);
     }
 }
+/*
+
+Worst case performance: Θ(nlogn)
+        Best case performance: Θ(nlogn)
+        Average case performance: Θ(nlogn)
+        Worst case space complexity: Θ(n) total, Θ(1) auxiliary*/
