@@ -1,0 +1,15 @@
+Non - Linear Sorting Algorithms
+Linear Sorting Algorithms - Counting , bucket/bin and Radix Sort
+
+Counting Sort :-
+Counting sort is a sorting technique based on keys between a specific range. It works by counting the number of objects having distinct key values (kind of hashing). Then doing some arithmetic to calculate the position of each object in the output sequence.
+
+Bucket/Binary Sort :-
+
+Uniformly distribute accross buckets ,  then do InsertionSort on all the buckets and then join
+
+Radix Sort is to do digit by digit sort starting from least significant digit to most significant digit. Radix sort uses counting sort as a subroutine to sort.
+
+
+1. CheckDuplicatesInArray
+
