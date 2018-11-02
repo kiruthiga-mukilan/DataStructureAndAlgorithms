@@ -10,6 +10,8 @@ Uniformly distribute accross buckets ,  then do InsertionSort on all the buckets
 
 Radix Sort is to do digit by digit sort starting from least significant digit to most significant digit. Radix sort uses counting sort as a subroutine to sort.
 
-
 1. CheckDuplicatesInArray
+
+the number of candidates is less but the number of votes is
+significantly large. For this problem we can use counting sort.
 
