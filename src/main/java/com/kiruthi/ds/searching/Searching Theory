@@ -1,0 +1,14 @@
+• Unordered Linear Search
+• Sorted/Ordered Linear Search
+• Binary Search
+• Symbol Tables and Hashing
+• String Searching Algorithms: Tries, Ternary Search and Suffix Trees
+
+Better for Binary Search:-
+interpolation search may go to different locations according to the value of the key being searched.
+
+a XOR a XOR a XOR a = 0
+a XOR a XOR a = a
+Bitonic array -->  first strictly increasing then after a point strictly decreasing
+
+
