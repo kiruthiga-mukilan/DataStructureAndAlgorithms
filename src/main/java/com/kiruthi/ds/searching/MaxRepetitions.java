@@ -11,8 +11,11 @@ class MaxRepeating {
     static int maxRepeating(int arr[], int n, int k) {
         // Iterate though input array, for every element
         // arr[i], increment arr[arr[i]%k] by k
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < n; i++){
             arr[(arr[i] % k)] += k;
+            System.out.println(arr[i]%k);
+        }
+
 
         // Find index of the maximum repeating element
         int max = arr[0], result = 0;
